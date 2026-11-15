@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
-  "notes": "تحريك الأوضة بكل اللي جواها، ورقم الشقة لكذا أوضة مرة واحدة، ولون واسم لكل شقة على الرسم، وتنبيه بالتحديثات الجديدة.",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.26.apk",
-  "sha256": "846bd380b0b421ffb99e76413ba08b732c3ad03b10788fe652f96f991009014d",
-  "size": 1019653
+  "versionCode": 31,
+  "versionName": "1.30",
+  "notes": "قطاعات الأرضية والحوائط والواجهة مع متابعة تم/لسه لكل أوضة، رسم علب الكهرباء والمواسير والمحابس على الحائط وظهورها على المسقط و3D، أسعار وتكلفة للقطاعات، وجدول مصاريف المقاولات في غير المباشرة.",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.30.apk",
+  "sha256": "63d3433eb2ba5ca8e9c30458dfc5b402553c7d90d22f82e67cafeb164aca4be1",
+  "size": 959568
 }
