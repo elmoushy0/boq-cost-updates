@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
-  "notes": "رفع جودة رسم الواجهة والمسقط و3D: مواسير بسُمك وحافة، بريزة ومحبس واقعيين، خطوط أبعاد، حوائط بلونين، ومقياس رسم.",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.34.apk",
-  "sha256": "abb944792520b3df7af81ad81b2805d31957f9ef7390fb64038a5509798f9291",
-  "size": 966368
+  "versionCode": 36,
+  "versionName": "1.35",
+  "notes": "فتحات الأوض الحرة في 3D، حوائطها المشتركة في الحصر، إخفاء العناصر خلف الحوائط، ترتيب أرقام واجهة الحائط، وضريبة القيمة المضافة 5% افتراضيًا.",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.35.apk",
+  "sha256": "231c9d803d689a351a34727be622510dc59a31f70bcf28810bba1421cae12c80",
+  "size": 967712
 }
