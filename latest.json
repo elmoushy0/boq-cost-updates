@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "notes": "استيكة لمسح الحوائط والأبواب والأثاث بلمسة، وقائمة اختصارات بالزر اليمين أو الضغط المطوّل، والحصر يتعدّل تلقائيًا مع الحائط الممسوح",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.36.apk",
-  "sha256": "fadb9b819af9d531f241f1feed40037a27f25ad994b24070f766488e85ee31d1",
-  "size": 1061376
+  "versionCode": 38,
+  "versionName": "1.37",
+  "notes": "استيراد مناقصة ومستخلص (Excel وPDF وصورة) بالذكاء الاصطناعي: أرقام المناقصة تظهر جنب كل بند وتتقارن بالحصر",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.37.apk",
+  "sha256": "5e02347b477170c0fc7947d1b5f249e017706aae02fa4b9a0c3cbb058af75751",
+  "size": 1078238
 }
