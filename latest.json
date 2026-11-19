@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "1.45",
-  "notes": "تحسين دقة الكاشف المحلي لأعمدة مستخلصات العماد (كمية الأعمال خلال المدة / الإجمالية) مع التحقق الفعلي على ملفي العماد 24-2 وبيان أعمال 251",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.45.apk",
-  "sha256": "5b5a2d86bab153a005edb3aa42bbfc43967c3a5fe1aa67b245a36beeab3065a4",
-  "size": 1001772
+  "versionCode": 47,
+  "versionName": "1.46",
+  "notes": "منع تكرار النماذج الافتراضية عند استيراد النسخة الاحتياطية وتوضيح حصر الواجهات",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.46.apk",
+  "sha256": "8fcb04f8b0f4d1df118c5c947691f7bb7b9b092a6532e3e61bbff1fb484a5418",
+  "size": 1002012
 }
