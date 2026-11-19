@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.42",
-  "notes": "مساقط متعددة للمشروع (أرضي/متكرر/موقع عام)، حصر الواجهات والموقع العام، سجل المستخلصات وترحيل الفعلي، وتأييد البنود الهندسية مع حفظ القاعدة في IndexedDB",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.42.apk",
-  "sha256": "f43fdae3e58022831c69deb44cbc9f0b74d98ea1b575bb114489e53f2be544e6",
-  "size": 997568
+  "versionCode": 44,
+  "versionName": "1.43",
+  "notes": "جسر الترحيل الشامل لتطبيق العماد (ملف المشروع + حصر وعقد مقاول باطن + مستخلص الجهة المالكة)",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.43.apk",
+  "sha256": "79f91febf18e44a5fc2d4116ee1a94d84058f047ebdf3ffd14851cf0e4f7cd51",
+  "size": 1000896
 }
