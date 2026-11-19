@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "notes": "إصلاح استيراد Excel بدون إنترنت، وتحسين لوحة Shop Drawing، وإصلاح النسخ الاحتياطي للرسومات وحصر الغرف الحرة",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.41.apk",
-  "sha256": "0c1983c88e697b9a22304fc9415e50e4296069ef28a3de6cad115682e4c05128",
-  "size": 992756
+  "versionCode": 43,
+  "versionName": "1.42",
+  "notes": "مساقط متعددة للمشروع (أرضي/متكرر/موقع عام)، حصر الواجهات والموقع العام، سجل المستخلصات وترحيل الفعلي، وتأييد البنود الهندسية مع حفظ القاعدة في IndexedDB",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.42.apk",
+  "sha256": "f43fdae3e58022831c69deb44cbc9f0b74d98ea1b575bb114489e53f2be544e6",
+  "size": 997568
 }
