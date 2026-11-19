@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
-  "notes": "صور التنفيذ مربوطة بالبند ومكانها على الرسم (أكثر من صورة)، تقرير شامل للطباعة، ولوحة Shop Drawing بمقياس رسم وكارتوش وجداول الغرف والفتحات",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.39.apk",
-  "sha256": "a8524cb7c9491bdc8a6d3b9924717243c77b9caf01ffa51c59aa07ab63fa3343",
-  "size": 1094717
+  "versionCode": 41,
+  "versionName": "1.40",
+  "notes": "تصليح: ألوان نافذة البند في الوضع الداكن وهوامش الطباعة، وأكواد الأبواب والشبابيك في لوحة Shop Drawing ما تركبش على الأبعاد",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.40.apk",
+  "sha256": "03e10c9624c1fc1a80fb3b3be01cb678d0a9714de3d1372fda0a4c8eafcfdf5a",
+  "size": 990528
 }
