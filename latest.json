@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
-  "notes": "تصليح: ألوان نافذة البند في الوضع الداكن وهوامش الطباعة، وأكواد الأبواب والشبابيك في لوحة Shop Drawing ما تركبش على الأبعاد",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.40.apk",
-  "sha256": "03e10c9624c1fc1a80fb3b3be01cb678d0a9714de3d1372fda0a4c8eafcfdf5a",
-  "size": 990528
+  "versionCode": 42,
+  "versionName": "1.41",
+  "notes": "إصلاح استيراد Excel بدون إنترنت، وتحسين لوحة Shop Drawing، وإصلاح النسخ الاحتياطي للرسومات وحصر الغرف الحرة",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.41.apk",
+  "sha256": "0c1983c88e697b9a22304fc9415e50e4296069ef28a3de6cad115682e4c05128",
+  "size": 992756
 }
