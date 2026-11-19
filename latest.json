@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44",
-  "notes": "تأمين ترحيل الفعلي (الكمية×الفئة بدون استبدال تلقائي)، تحسين حفظ IndexedDB بالطابع الزمني، دقة الكاشف المحلي للأعمدة، وحماية حصر الواجهات في وضع الشقة الواحدة",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.44.apk",
-  "sha256": "9bff504575ead26d6dbd48a5b02ace39164af8720963a3dc2e75a1a12958f6b2",
-  "size": 1001744
+  "versionCode": 46,
+  "versionName": "1.45",
+  "notes": "تحسين دقة الكاشف المحلي لأعمدة مستخلصات العماد (كمية الأعمال خلال المدة / الإجمالية) مع التحقق الفعلي على ملفي العماد 24-2 وبيان أعمال 251",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.45.apk",
+  "sha256": "5b5a2d86bab153a005edb3aa42bbfc43967c3a5fe1aa67b245a36beeab3065a4",
+  "size": 1001772
 }
