@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
-  "notes": "تنظيم التطبيق في أقسام: التكلفة، الرسومات، التنفيذ، الحصر، الطباعة. صفحة المقايسة والمستخلص ومركز الطباعة",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.38.apk",
-  "sha256": "44af941d64dec966a4bf5cceb862bd4e02794a8ef4d5132e7d551e08112389b5",
-  "size": 983420
+  "versionCode": 40,
+  "versionName": "1.39",
+  "notes": "صور التنفيذ مربوطة بالبند ومكانها على الرسم (أكثر من صورة)، تقرير شامل للطباعة، ولوحة Shop Drawing بمقياس رسم وكارتوش وجداول الغرف والفتحات",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.39.apk",
+  "sha256": "a8524cb7c9491bdc8a6d3b9924717243c77b9caf01ffa51c59aa07ab63fa3343",
+  "size": 1094717
 }
