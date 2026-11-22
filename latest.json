@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "1.53",
-  "notes": "1.53: حماية تبديل الحساب (سؤال قبل دمج مشاريع حساب تاني)، وتأمين صور المزامنة",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.53.apk",
-  "sha256": "98120ff0cb42c09e0126e9fbccbc7a50928de234dc9be11e3de025a8718e2b6e",
-  "size": 1055828
+  "versionCode": 55,
+  "versionName": "1.54",
+  "notes": "1.54: تأمين مكتبة PDF (SRI)، رفض ملفات الاستيراد التالفة، ورفض الأرقام الضخمة جدًا",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.54.apk",
+  "sha256": "4f47af8ba52fb8d0108bf8352bc9f18de8f4e691fa61517a5049a266c146f6ac",
+  "size": 1056016
 }
