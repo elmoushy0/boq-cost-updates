@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52",
-  "notes": "منع تداخل الغرف، الواجهات على الوش الخارجي، سحب الأبواب والشبابيك على الحوائط، وإصلاح: السلم والسملات والتراجع في وضع الحوائط، وعدّاد الأبواب، والخروج من الحساب",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.52.apk",
-  "sha256": "1a2e35c6eed3fb450c8a3407dd0e3317bb3df124c2151eabd317e17e7a9bab9c",
-  "size": 1055452
+  "versionCode": 54,
+  "versionName": "1.53",
+  "notes": "1.53: حماية تبديل الحساب (سؤال قبل دمج مشاريع حساب تاني)، وتأمين صور المزامنة",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.53.apk",
+  "sha256": "98120ff0cb42c09e0126e9fbccbc7a50928de234dc9be11e3de025a8718e2b6e",
+  "size": 1055828
 }
