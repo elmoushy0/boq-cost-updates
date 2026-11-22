@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "1.51",
-  "notes": "1.51: مخطط خلفية (صورة/PDF) بمقياس، رسم بالحوائط بسمكها والغرف تطلع لوحدها، أبواب وشبابيك على الحوائط، تحويل صورة المخطط لحوائط بالذكاء الاصطناعي وظبطها على المقاسات المكتوبة",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.51.apk",
-  "sha256": "0ffaa5c8ab4d0dbdcd8cbd8549a89e55d687b73c38437a0171347c2b503b13a3",
-  "size": 1054388
+  "versionCode": 53,
+  "versionName": "1.52",
+  "notes": "منع تداخل الغرف، الواجهات على الوش الخارجي، سحب الأبواب والشبابيك على الحوائط، وإصلاح: السلم والسملات والتراجع في وضع الحوائط، وعدّاد الأبواب، والخروج من الحساب",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.52.apk",
+  "sha256": "1a2e35c6eed3fb450c8a3407dd0e3317bb3df124c2151eabd317e17e7a9bab9c",
+  "size": 1055452
 }
