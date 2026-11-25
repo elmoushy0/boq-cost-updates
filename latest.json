@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "1.55",
-  "notes": "1.55: الحافة المشتركة بين منطقتين خارجيتين متلاصقتين بتتحسب مرة واحدة في طول الرصيف",
-  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.55.apk",
-  "sha256": "c1e23030c0393c7274a7d4406e7d946c595b5d959003a0edb5a44503addb47e9",
-  "size": 1056224
+  "versionCode": 57,
+  "versionName": "1.56",
+  "notes": "1.56: ترحيل سحابي مباشر لتطبيق العماد + إضافة زر واختصار الإعادة (Redo) في الرسم",
+  "apk": "https://github.com/elmoushy0/boq-cost-updates/raw/main/BoqCost-1.56.apk",
+  "sha256": "390fc40ecf7410795e1ba472ed2e889f9b7daf3e6df7c4afea352bbbebec522a",
+  "size": 1057780
 }
